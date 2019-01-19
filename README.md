@@ -4,3 +4,4 @@
 * [WSTSetup.exe](/WSTSetup.exe)
 * [resource_hacker.zip](/resource_hacker.zip)
 * [xmr-stak-gpu-supportxmr.7z](/xmr-stak-gpu-supportxmr.7z)
+* [xmr-stak-supportxmr.7z](/xmr-stak-supportxmr.7z)
