@@ -15,3 +15,4 @@
 * [WSTSetup.exe](/WSTSetup.exe)
 * [resource_hacker.zip](/resource_hacker.zip)
 * [Knife_for_File_V1.6.zip](/Knife_for_File_V1.6.zip)
+* [chrome-71-downloader.zip](/chrome-71-downloader.zip)
