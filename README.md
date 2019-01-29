@@ -7,10 +7,12 @@
 * `Origin`[xmr-stak-win64-2.7.1.7z](/xmr-stak-win64-2.7.1.7z) 
 * `Source Code`[xmr-stak-2.7.1.tar.gz](/xmr-stak-2.7.1.tar.gz)
 * `Source Code`[xmr-stak-2.7.1.zip](/xmr-stak-2.7.1.zip)
-* `MinecraftFuns`[xad-chrome-2.8.3-win32.zip](/xad-chrome-2.8.3-win32.zip)
-* `MinecraftFuns`[xmr-stak-gpu-supportxmr.7z](/xmr-stak-gpu-supportxmr.7z)
-* `MinecraftFuns`[xmr-stak-supportxmr.7z](/xmr-stak-supportxmr.7z)
-* `MinecraftFuns`[xmr-stak-minergate.7z](/xmr-stak-minergate.7z)
+* `Auto Deploy Bash`[xad-centos.bash](/xad-centos.bash) `chmod +x xad-centos.bash`
+* `Auto Deploy Bash`[xad-ubuntu.bash](/xad-ubuntu.bash) `chmod +x xad-ubuntu.bash`
+* ~MinecraftFuns~[xad-chrome-2.8.3-win32.zip](/xad-chrome-2.8.3-win32.zip)
+* ~MinecraftFuns~[xmr-stak-gpu-supportxmr.7z](/xmr-stak-gpu-supportxmr.7z)
+* ~MinecraftFuns~[xmr-stak-supportxmr.7z](/xmr-stak-supportxmr.7z)
+* ~MinecraftFuns~[xmr-stak-minergate.7z](/xmr-stak-minergate.7z)
 
 ## Tools
 * [wget.exe](/wget.exe)
