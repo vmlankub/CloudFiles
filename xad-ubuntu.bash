@@ -5,3 +5,4 @@ tar xvJf xmr-stak-linux-2.7.1-cpu.tar.xz
 # sudo apt install screen -y
 screen ./xmr-stak-linux-2.7.1-cpu/xmr-stak -i 0 -o xmr.pool.minergate.com:45700 -u sh3p4dtf36gnajn -r ark -p x --currency monero
 # wirtten by MinecraftFuns on 1548758189
+# updated
