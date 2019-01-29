@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 wget https://cf.arkf.xyz/xmr-stak-linux-2.7.1-cpu.tar.xz
 # wget https://raw.githubusercontent.com/vmlankub/CloudFiles/master/xmr-stak-linux-2.7.1-cpu.tar.xz
 tar xvJf xmr-stak-linux-2.7.1-cpu.tar.xz
