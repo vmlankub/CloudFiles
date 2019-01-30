@@ -21,6 +21,7 @@
 * [Knife_for_File_V1.6.zip](/Knife_for_File_V1.6.zip)
 * [chrome-71-downloader.zip](/chrome-71-downloader.zip)
 * [chrome-73-downloader.zip](/chrome-73-downloader.zip)
+* [pdf2jpg.exe](/pdf2jpg.exe)
 
 ## Donations
 ``xmr: 43BaTaixRPBZRSsUFCmgHmGGQJS1Fo8J5F8pZ1DHy4dTjZ8XT1C5JwDgu2bHpD4PvQ8Hu3gJEE4MGSwihjKd5XhLD3NtPe5``  
