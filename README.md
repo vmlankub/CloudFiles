@@ -21,6 +21,11 @@
 ## Tools
 ### `wget`
 * [wget.exe](/wget.exe)
+### `SimpleDNSCrypt`
+* [SimpleDNSCrypt.msi](/SimpleDNSCrypt.msi)
+* [SimpleDNSCrypt64.msi](/SimpleDNSCrypt64.msi)
+* [SimpleDNSCrypt_x86.zip](/SimpleDNSCrypt_x86.zip)
+* [SimpleDNSCrypt_x64.zip](/SimpleDNSCrypt_x64.zip)
 ### `curl`
 * [curl-7.63.0-win32-mingw.zip](/curl-7.63.0-win32-mingw.zip)
 * [curl-7.63.0-win64-mingw.zip](/curl-7.63.0-win64-mingw.zip)
