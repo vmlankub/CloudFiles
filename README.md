@@ -33,6 +33,7 @@
 * [brotli-1.0.7-win64-mingw.zip](/brotli-1.0.7-win64-mingw.zip)
 ### `curl`
 * [curl-7.63.0-win64-mingw.zip](/curl-7.63.0-win64-mingw.zip)
+* [curl-7.63.0-win32-mingw.zip](/curl-7.63.0-win32-mingw.zip)
 ### `libssh2`
 * [libssh2-1.8.0-win64-mingw.zip](/libssh2-1.8.0-win64-mingw.zip)
 ### `nghttp2`
