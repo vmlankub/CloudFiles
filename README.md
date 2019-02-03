@@ -44,6 +44,8 @@
 * [openssl-1.1.1a-win64-mingw.zip](/openssl-1.1.1a-win64-mingw.zip)
 ### `zlib`
 * [zlib-1.2.11-win64-mingw.zip](/zlib-1.2.11-win64-mingw.zip)
+###  `microsoft`
+* [Goto */ms*](/ms)
 ### `varia`
 * [WSTSetup.exe](/WSTSetup.exe)
 * [resource_hacker.zip](/resource_hacker.zip)
