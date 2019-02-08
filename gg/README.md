@@ -7,3 +7,7 @@
 * [x86.72.0.3626.96_chrome_installer.exe](2t4JyzFKRO03W76M)
 * [](3wQ9qW8HmnOmiqDl)
 * [](HFkBY29daCT88c3Z)
+## osx
+* [](NtdzkEc8vGhRKUIc)
+* [](6g9BafJHM3qq7NqC)
+* [](MHQKb1KpRdb5lYJD)
