@@ -46,6 +46,8 @@
 * [zlib-1.2.11-win64-mingw.zip](/zlib-1.2.11-win64-mingw.zip)
 ###  `microsoft`
 * [Goto */ms*](/ms)
+###  `google`
+* [Goto */gg*](/gg)
 ### `varia`
 * [WSTSetup.exe](/WSTSetup.exe)
 * [resource_hacker.zip](/resource_hacker.zip)
