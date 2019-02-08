@@ -29,6 +29,8 @@
 ### `curl`
 * [curl-7.63.0-win32-mingw.zip](/curl-7.63.0-win32-mingw.zip)
 * [curl-7.63.0-win64-mingw.zip](/curl-7.63.0-win64-mingw.zip)
+* [curl-7.64.0-win32-mingw.zip](/curl-7.64.0-win32-mingw.zip)
+* [curl-7.64.0-win64-mingw.zip](/curl-7.64.0-win64-mingw.zip)
 ### `qbittorrent`
 * [qbittorrent_4.1.5_setup.exe](/qbittorrent_4.1.5_setup.exe)
 * [qbittorrent_4.1.5_x64_setup.exe](/qbittorrent_4.1.5_x64_setup.exe)
