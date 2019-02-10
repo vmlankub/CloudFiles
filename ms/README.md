@@ -4,3 +4,5 @@
 * `onedrive for business`[Setup.x86.zh-cn_grooveretail_3v9n8-w93cc-fqpb8-y9wvf-tvgj3_TX_PR_.exe](Setup.x86.zh-cn_grooveretail_3v9n8-w93cc-fqpb8-y9wvf-tvgj3_TX_PR_.exe)
 * `vcruntime140.dll`[vc_redist.x64.exe](vc_redist.x64.exe)
 * `vcruntime140.dll`[vc_redist.x86.exe](vc_redist.x86.exe)
+
+![](https://ww2.sinaimg.cn/large/005BYqpgly1g01dwo3j72j308c01o080.jpg)
