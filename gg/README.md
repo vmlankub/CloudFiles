@@ -12,3 +12,5 @@
 * [osx.GoogleChrome-72.0.3626.96-Beta.dmg](6g9BafJHM3qq7NqC)
 * [osx.GoogleChrome-73.0.3683.20-Dev.dmg](MHQKb1KpRdb5lYJD)
 * [osx.GoogleChromeCanary-74.0.3694.0.dmg](dUQ1q4VvYWeFtRjB)
+
+![](https://ww2.sinaimg.cn/large/005BYqpgly1g01dwo3j72j308c01o080.jpg)
