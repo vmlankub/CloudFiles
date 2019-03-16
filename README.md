@@ -1,11 +1,37 @@
 # Cloudflare File Share
 ``基于 GitHub Pages 和 Cloudflare CDN``
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4161171709893056"
+     data-ad-slot="5334499576"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## XMR Miner
+### [20190309 Updated | Onedrive](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EjIK4P9_q5lKhixa6tLEP9kBOwSLxIqnjhp2XyN0p9L7Jg)
 ### `Origin`
 * [xmr-stak-linux-2.7.1-cpu.tar.xz](/xmr-stak-linux-2.7.1-cpu.tar.xz)
 * [xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz](/xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz)
 * [xmr-stak-linux-2.7.1-cpu_opencl-amd.tar.xz](/xmr-stak-linux-2.7.1-cpu_opencl-amd.tar.xz)
 * [xmr-stak-win64-2.7.1.7z](/xmr-stak-win64-2.7.1.7z) 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Q711scUVrV4DkyFQ -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4161171709893056"
+     data-ad-slot="1810542752"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### `Source Code`
 * [xmr-stak-2.7.1.tar.gz](/xmr-stak-2.7.1.tar.gz)
 * [xmr-stak-2.7.1.zip](/xmr-stak-2.7.1.zip)
@@ -18,6 +44,18 @@
 * [xmr-stak-supportxmr.7z](/xmr-stak-supportxmr.7z)
 * [xmr-stak-minergate.7z](/xmr-stak-minergate.7z)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Q711scUVrV4DkyFQ -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4161171709893056"
+     data-ad-slot="1810542752"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Tools
 ### `wget`
 * [wget.exe](/wget.exe)
@@ -26,6 +64,19 @@
 * [SimpleDNSCrypt64.msi](/SimpleDNSCrypt64.msi)
 * [SimpleDNSCrypt_x86.zip](/SimpleDNSCrypt_x86.zip)
 * [SimpleDNSCrypt_x64.zip](/SimpleDNSCrypt_x64.zip)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Q711scUVrV4DkyFQ -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4161171709893056"
+     data-ad-slot="1810542752"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### `curl`
 * [curl-7.64.0-win32-mingw.zip](/curl-7.64.0-win32-mingw.zip)
 * [curl-7.64.0-win64-mingw.zip](/curl-7.64.0-win64-mingw.zip)
@@ -47,6 +98,19 @@
 * [zlib-1.2.11-win64-mingw.zip](/zlib-1.2.11-win64-mingw.zip)
 ###  `microsoft`
 * [Goto */ms*](/ms)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Q711scUVrV4DkyFQ -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4161171709893056"
+     data-ad-slot="1810542752"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ###  `google`
 * [Goto */gg*](/gg)
 ### `varia`
@@ -64,6 +128,18 @@
 ## Donations
 ``xmr: 43BaTaixRPBZRSsUFCmgHmGGQJS1Fo8J5F8pZ1DHy4dTjZ8XT1C5JwDgu2bHpD4PvQ8Hu3gJEE4MGSwihjKd5XhLD3NtPe5``  
 ``xmr: 88fSChxRJjacayrSceJjCvL13FMfnbQBbGqdETUB8KL7HbjVdntv1YbgLydA8aA2nihwFcc9CjeVbW8ZT2KJDzUiVSDYbJs``
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Q711scUVrV4DkyFQ -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4161171709893056"
+     data-ad-slot="1810542752"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ![](https://ww2.sinaimg.cn/large/005BYqpgly1g01dwo3j72j308c01o080.jpg)
 
