@@ -12,14 +12,18 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 ## Google Chrome
+
 * [chrome-71-dl.zip](https://cf.arkf.xyz/gg/chrome-71-dl.zip)
 * [chrome-73-dl-x64.zip](https://cf.arkf.xyz/gg/chrome-73-dl-x64.zip)
+
 ## XMR Miner
+
 > ### [20190309 Updated | Onedrive](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EjIK4P9_q5lKhixa6tLEP9kBOwSLxIqnjhp2XyN0p9L7Jg)
 
 > ### [XMR-Chrome Download](https://lkpo0v.github.io/xmrchrome/)
 
 ### `Origin`
+
 * [xmr-stak-linux-2.7.1-cpu.tar.xz](/xmr-stak-linux-2.7.1-cpu.tar.xz)
 * [xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz](/xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz)
 * [xmr-stak-linux-2.7.1-cpu_opencl-amd.tar.xz](/xmr-stak-linux-2.7.1-cpu_opencl-amd.tar.xz)
@@ -38,12 +42,15 @@
 </script>
 
 ### `Source Code`
+
 * [xmr-stak-2.7.1.tar.gz](/xmr-stak-2.7.1.tar.gz)
 * [xmr-stak-2.7.1.zip](/xmr-stak-2.7.1.zip)
 ### `Auto Deploy Bash`
+
 * [xad-centos.bash](/xad-centos.bash) `chmod +x xad-centos.bash`
 * [xad-ubuntu.bash](/xad-ubuntu.bash) `chmod +x xad-ubuntu.bash`
 ### `Myself` *[MinecraftFuns](https://github.com/MinecraftFuns)*
+
 * [xad-chrome-2.8.3-win32.zip](/xad-chrome-2.8.3-win32.zip)
 * [xmr-stak-gpu-supportxmr.7z](/xmr-stak-gpu-supportxmr.7z)
 * [xmr-stak-supportxmr.7z](/xmr-stak-supportxmr.7z)
@@ -62,9 +69,12 @@
 </script>
 
 ## Tools
+
 ### `wget`
+
 * [wget.exe](/wget.exe)
 ### `SimpleDNSCrypt`
+
 * [SimpleDNSCrypt.msi](/SimpleDNSCrypt.msi)
 * [SimpleDNSCrypt64.msi](/SimpleDNSCrypt64.msi)
 * [SimpleDNSCrypt_x86.zip](/SimpleDNSCrypt_x86.zip)
@@ -83,25 +93,34 @@
 </script>
 
 ### `curl`
+
 * [curl-7.64.0-win32-mingw.zip](/curl-7.64.0-win32-mingw.zip)
 * [curl-7.64.0-win64-mingw.zip](/curl-7.64.0-win64-mingw.zip)
 * [1drv:gB7xFHe1VyP8Jfp4](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EnintXDsJdNGiNpEKCIo76UBiS3vKqsgV0ZgCGJNRqvF2g?e=wEVplU)
 ### `qbittorrent`
+
 * [qbittorrent_4.1.5_setup.exe](/qbittorrent_4.1.5_setup.exe)
 * [qbittorrent_4.1.5_x64_setup.exe](/qbittorrent_4.1.5_x64_setup.exe)
 ### `mingw`
+
 * [mingw-w64-v6.0.0.zip](/mingw-w64-v6.0.0.zip)
 ### `brotli`
+
 * [brotli-1.0.7-win64-mingw.zip](/brotli-1.0.7-win64-mingw.zip)
 ### `libssh2`
+
 * [libssh2-1.8.0-win64-mingw.zip](/libssh2-1.8.0-win64-mingw.zip)
 ### `nghttp2`
+
 * [nghttp2-1.35.1-win64-mingw.zip](/nghttp2-1.35.1-win64-mingw.zip)
 ### `openssl`
+
 * [openssl-1.1.1a-win64-mingw.zip](/openssl-1.1.1a-win64-mingw.zip)
 ### `zlib`
+
 * [zlib-1.2.11-win64-mingw.zip](/zlib-1.2.11-win64-mingw.zip)
 ###  `microsoft`
+
 * [Goto */ms*](/ms)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -117,8 +136,10 @@
 </script>
 
 ###  `google`
+
 * [Goto */gg*](/gg)
 ### `varia`
+
 * [WSTSetup.exe](/WSTSetup.exe)
 * [resource_hacker.zip](/resource_hacker.zip)
 * [魔塔mutayouxi.zip](/魔塔mutayouxi.zip)
