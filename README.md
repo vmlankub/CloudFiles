@@ -11,10 +11,14 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+## Google Chrome
+* [chrome-71-dl.zip](https://cf.arkf.xyz/gg/chrome-71-dl.zip)
+* [chrome-73-dl-x64.zip](https://cf.arkf.xyz/gg/chrome-73-dl-x64.zip)
 ## XMR Miner
-### [20190309 Updated | Onedrive](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EjIK4P9_q5lKhixa6tLEP9kBOwSLxIqnjhp2XyN0p9L7Jg)
-### [xmr-chrome download](https://lkpo0v.github.io/xmrchrome/)
+> ### [20190309 Updated | Onedrive](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EjIK4P9_q5lKhixa6tLEP9kBOwSLxIqnjhp2XyN0p9L7Jg)
+
+> ### [XMR-Chrome Download](https://lkpo0v.github.io/xmrchrome/)
+
 ### `Origin`
 * [xmr-stak-linux-2.7.1-cpu.tar.xz](/xmr-stak-linux-2.7.1-cpu.tar.xz)
 * [xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz](/xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz)
