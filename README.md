@@ -1,16 +1,7 @@
 # Cloudflare File Share
 ``基于 GitHub Pages 和 Cloudflare CDN``
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4161171709893056"
-     data-ad-slot="5334499576"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<iframe src="https://duckduckgo.com/search.html?width=420&duck=yes&site=www.arkf.xyz,g.arkf.xyz,m.arkf.xyz,one.arkf.xyz,siyuan.arkf.xyz,room.arkf.xyz,cf.arkf.xyz&prefill=使用 DuckDuckGo 站内搜索&bgcolor=3399ff" style="overflow:hidden;margin:0;padding:0;width:553px;height:60px;" frameborder="0"></iframe>
 
 ## Google Chrome
 * [chrome-71-dl.zip](/gg/chrome-71-dl.zip)
@@ -25,18 +16,6 @@
 * [xmr-stak-linux-2.7.1-cpu_opencl-amd.tar.xz](/xmr-stak-linux-2.7.1-cpu_opencl-amd.tar.xz)
 * [xmr-stak-win64-2.7.1.7z](/xmr-stak-win64-2.7.1.7z) 
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Q711scUVrV4DkyFQ -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4161171709893056"
-     data-ad-slot="1810542752"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### `Source Code`
 * [xmr-stak-2.7.1.tar.gz](/xmr-stak-2.7.1.tar.gz)
 * [xmr-stak-2.7.1.zip](/xmr-stak-2.7.1.zip)
@@ -49,18 +28,6 @@
 * [xmr-stak-supportxmr.7z](/xmr-stak-supportxmr.7z)
 * [xmr-stak-minergate.7z](/xmr-stak-minergate.7z)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Q711scUVrV4DkyFQ -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4161171709893056"
-     data-ad-slot="1810542752"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## Tools
 
 ### `wget`
@@ -71,18 +38,6 @@
 * [SimpleDNSCrypt64.msi](/SimpleDNSCrypt64.msi)
 * [SimpleDNSCrypt_x86.zip](/SimpleDNSCrypt_x86.zip)
 * [SimpleDNSCrypt_x64.zip](/SimpleDNSCrypt_x64.zip)
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Q711scUVrV4DkyFQ -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4161171709893056"
-     data-ad-slot="1810542752"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### `curl`
 * [curl-7.64.0-win32-mingw.zip](/curl-7.64.0-win32-mingw.zip)
@@ -114,18 +69,6 @@
 ###  `microsoft`
 * [Goto */ms*](/ms)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Q711scUVrV4DkyFQ -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4161171709893056"
-     data-ad-slot="1810542752"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ###  `google`
 * [Goto */gg*](/gg)
 
@@ -145,27 +88,8 @@
 ``xmr: 43BaTaixRPBZRSsUFCmgHmGGQJS1Fo8J5F8pZ1DHy4dTjZ8XT1C5JwDgu2bHpD4PvQ8Hu3gJEE4MGSwihjKd5XhLD3NtPe5``  
 ``xmr: 88fSChxRJjacayrSceJjCvL13FMfnbQBbGqdETUB8KL7HbjVdntv1YbgLydA8aA2nihwFcc9CjeVbW8ZT2KJDzUiVSDYbJs``
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Q711scUVrV4DkyFQ -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4161171709893056"
-     data-ad-slot="1810542752"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ![](https://ww2.sinaimg.cn/large/005BYqpgly1g01dwo3j72j308c01o080.jpg)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-4161171709893056",
-    enable_page_level_ads: true
-  });
-</script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116309064-2"></script>
 <script>
