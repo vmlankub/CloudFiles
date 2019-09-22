@@ -3,11 +3,11 @@
 
 <iframe src="https://duckduckgo.com/search.html?width=420&duck=yes&site=cf.arkf.xyz&prefill=使用 DuckDuckGo 站内搜索&bgcolor=3399ff" style="overflow:hidden;margin:0;padding:0;width:553px;height:60px;" frameborder="0"></iframe>
 
-## Google Chrome
+## [Google Chrome](/show/google-chrome.html)
 * [chrome-71-dl.zip](/gg/chrome-71-dl.zip)
 * [chrome-73-dl-x64.zip](/gg/chrome-73-dl-x64.zip)
 
-## XMR Miner
+## [XMR Miner](/show/xmr-miner.html)
 > ### [20190309 Updated | Onedrive](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EjIK4P9_q5lKhixa6tLEP9kBOwSLxIqnjhp2XyN0p9L7Jg)
 > ### [XMR-Chrome Download](https://lkpo0v.github.io/xmrchrome/)
 ### `Origin`
@@ -91,7 +91,8 @@
 
 ## Donations
 ``xmr: 43BaTaixRPBZRSsUFCmgHmGGQJS1Fo8J5F8pZ1DHy4dTjZ8XT1C5JwDgu2bHpD4PvQ8Hu3gJEE4MGSwihjKd5XhLD3NtPe5``  
-``xmr: 88fSChxRJjacayrSceJjCvL13FMfnbQBbGqdETUB8KL7HbjVdntv1YbgLydA8aA2nihwFcc9CjeVbW8ZT2KJDzUiVSDYbJs``
+``xmr: 88fSChxRJjacayrSceJjCvL13FMfnbQBbGqdETUB8KL7HbjVdntv1YbgLydA8aA2nihwFcc9CjeVbW8ZT2KJDzUiVSDYbJs``  
+[PayPal](https://www.paypal.me/mcfuns) [WeChat](https://cdn.jsdelivr.net/gh/vmlankub/__cdn@master/wechat_reward.png)
 
 ![](https://cdn.jsdelivr.net/gh/lkpo0v/d1n3/ww2.sinaimg.cn/large/005BYqpgly1g01dwo3j72j308c01o080.jpg)
 
