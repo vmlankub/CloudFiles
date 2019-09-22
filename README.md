@@ -1,4 +1,4 @@
-# CloudFiles 文件分享站
+# CloudFiles 文件分享
 ``基于 GitHub Pages 和 Cloudflare CDN``
 
 <iframe src="https://duckduckgo.com/search.html?width=420&duck=yes&site=cf.arkf.xyz&prefill=使用 DuckDuckGo 站内搜索&bgcolor=3399ff" style="overflow:hidden;margin:0;padding:0;width:553px;height:60px;" frameborder="0"></iframe>
