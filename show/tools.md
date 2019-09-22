@@ -20,7 +20,7 @@
 ### `curl`
 * [curl-7.64.0-win32-mingw.zip](/curl-7.64.0-win32-mingw.zip)
 * [curl-7.64.0-win64-mingw.zip](/curl-7.64.0-win64-mingw.zip)
-* [1drv:gB7xFHe1VyP8Jfp4](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EnintXDsJdNGiNpEKCIo76UBiS3vKqsgV0ZgCGJNRqvF2g?e=wEVplU)
+* [OneDrive](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EnintXDsJdNGiNpEKCIo76UBiS3vKqsgV0ZgCGJNRqvF2g?e=wEVplU)
 
 ### `qbittorrent`
 * [qbittorrent_4.1.5_setup.exe](/qbittorrent_4.1.5_setup.exe)
