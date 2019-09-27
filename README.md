@@ -7,26 +7,26 @@
 * [chrome-71-dl.zip](/gg/chrome-71-dl.zip)
 * [chrome-73-dl-x64.zip](/gg/chrome-73-dl-x64.zip)
 
-## [XMR Miner](/show/xmr-miner.html)
-> ### [20190309 Updated | Onedrive](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EjIK4P9_q5lKhixa6tLEP9kBOwSLxIqnjhp2XyN0p9L7Jg)
-> ### [XMR-Chrome Download](https://lkpo0v.github.io/xmrchrome/)
-### `Origin`
-* [xmr-stak-linux-2.7.1-cpu.tar.xz](/xmr-stak-linux-2.7.1-cpu.tar.xz)
-* [xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz](/xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz)
-* [xmr-stak-linux-2.7.1-cpu_opencl-amd.tar.xz](/xmr-stak-linux-2.7.1-cpu_opencl-amd.tar.xz)
-* [xmr-stak-win64-2.7.1.7z](/xmr-stak-win64-2.7.1.7z) 
+## [wget](/show/wget.html)
+* [wget.exe](/wget.exe)
+* [wget-1.11.4.tar.gz](/wget/wget-1.11.4.tar.gz)
+* [wget-1.11.4-1-bin.zip](/wget/wget-1.11.4-1-bin.zip)
+* [wget-1.11.4-1-setup.exe](/wget/wget-1.11.4-1-setup.exe)
 
-### `Source Code`
-* [xmr-stak-2.7.1.tar.gz](/xmr-stak-2.7.1.tar.gz)
-* [xmr-stak-2.7.1.zip](/xmr-stak-2.7.1.zip)
-### `Auto Deploy Bash`
-* [xad-centos.bash](/xad-centos.bash) `chmod +x xad-centos.bash`
-* [xad-ubuntu.bash](/xad-ubuntu.bash) `chmod +x xad-ubuntu.bash`
-### `Myself` *[MinecraftFuns](https://github.com/MinecraftFuns)*
-* [xad-chrome-2.8.3-win32.zip](/xad-chrome-2.8.3-win32.zip)
-* [xmr-stak-gpu-supportxmr.7z](/xmr-stak-gpu-supportxmr.7z)
-* [xmr-stak-supportxmr.7z](/xmr-stak-supportxmr.7z)
-* [xmr-stak-minergate.7z](/xmr-stak-minergate.7z)
+## [github-desktop](/show/gh-desktop.html)
+* [GitHubDesktop.zip](/gh-desktop/GitHubDesktop.zip)
+* [GitHubDesktopSetup.exe](/gh-desktop/GitHubDesktopSetup.exe)
+* [GitHubDesktopSetup.msi](/gh-desktop/GitHubDesktopSetup.msi)
+
+## [ffmpeg](/show/ffmpeg.html)
+* [ffmpeg-20190926-525de95-win32-shared.zip](/ffmpeg/ffmpeg-20190926-525de95-win32-shared.zip)
+* [ffmpeg-20190926-525de95-win32-static.zip](/ffmpeg/ffmpeg-20190926-525de95-win32-static.zip)
+* [ffmpeg-20190926-525de95-win64-shared.zip](/ffmpeg/ffmpeg-20190926-525de95-win64-shared.zip)
+* [ffmpeg-20190926-525de95-win64-static.zip](/ffmpeg/ffmpeg-20190926-525de95-win64-static.zip)
+* [ffmpeg-4.2.1-win32-shared.zip](/ffmpeg/ffmpeg-4.2.1-win32-shared.zip)
+* [ffmpeg-4.2.1-win32-static.zip](/ffmpeg/ffmpeg-4.2.1-win32-static.zip)
+* [ffmpeg-4.2.1-win64-shared.zip](/ffmpeg/ffmpeg-4.2.1-win64-shared.zip)
+* [ffmpeg-4.2.1-win64-static.zip](/ffmpeg/ffmpeg-4.2.1-win64-static.zip)
 
 ## [Tools](/show/tools.html)
 > Example
@@ -61,35 +61,6 @@
 * [bdcamsetup.exe](/bdcam/bdcamsetup.exe)
 * [bdcamsetup4.4.3.1557.exe](/bdcam/bdcamsetup4.4.3.1557.exe)
 * [WPF_JJDown_v1.219.4.zip](/WPF_JJDown_v1.219.4.zip)
-* [wget-1.11.4.tar.gz](/wget/wget-1.11.4.tar.gz)
-* [wget-1.11.4-1-bin.zip](/wget/wget-1.11.4-1-bin.zip)
-* [wget-1.11.4-1-dep.zip](/wget/wget-1.11.4-1-dep.zip)
-* [wget-1.11.4-1-doc.zip](/wget/wget-1.11.4-1-doc.zip)
-* [wget-1.11.4-1-setup.exe](/wget/wget-1.11.4-1-setup.exe)
-* [wget-1.11.4-1-src.zip](/wget/wget-1.11.4-1-src.zip)
-* [wget-1.11.4-1-src-setup.exe](/wget/wget-1.11.4-1-src-setup.exe)
-* [ffmpeg-20190926-525de95-macos64-dev.zip](/ffmpeg/ffmpeg-20190926-525de95-macos64-dev.zip)
-* [ffmpeg-20190926-525de95-macos64-shared.zip](/ffmpeg/ffmpeg-20190926-525de95-macos64-shared.zip)
-* [ffmpeg-20190926-525de95-macos64-static.zip](/ffmpeg/ffmpeg-20190926-525de95-macos64-static.zip)
-* [ffmpeg-20190926-525de95-win32-dev.zip](/ffmpeg/ffmpeg-20190926-525de95-win32-dev.zip)
-* [ffmpeg-20190926-525de95-win32-shared.zip](/ffmpeg/ffmpeg-20190926-525de95-win32-shared.zip)
-* [ffmpeg-20190926-525de95-win32-static.zip](/ffmpeg/ffmpeg-20190926-525de95-win32-static.zip)
-* [ffmpeg-20190926-525de95-win64-dev.zip](/ffmpeg/ffmpeg-20190926-525de95-win64-dev.zip)
-* [ffmpeg-20190926-525de95-win64-shared.zip](/ffmpeg/ffmpeg-20190926-525de95-win64-shared.zip)
-* [ffmpeg-20190926-525de95-win64-static.zip](/ffmpeg/ffmpeg-20190926-525de95-win64-static.zip)
-* [ffmpeg-4.2.1-macos64-dev.zip](/ffmpeg/ffmpeg-4.2.1-macos64-dev.zip)
-* [ffmpeg-4.2.1-macos64-shared.zip](/ffmpeg/ffmpeg-4.2.1-macos64-shared.zip)
-* [ffmpeg-4.2.1-macos64-static.zip](/ffmpeg/ffmpeg-4.2.1-macos64-static.zip)
-* [ffmpeg-4.2.1-win32-dev.zip](/ffmpeg/ffmpeg-4.2.1-win32-dev.zip)
-* [ffmpeg-4.2.1-win32-shared.zip](/ffmpeg/ffmpeg-4.2.1-win32-shared.zip)
-* [ffmpeg-4.2.1-win32-static.zip](/ffmpeg/ffmpeg-4.2.1-win32-static.zip)
-* [ffmpeg-4.2.1-win64-dev.zip](/ffmpeg/ffmpeg-4.2.1-win64-dev.zip)
-* [ffmpeg-4.2.1-win64-shared.zip](/ffmpeg/ffmpeg-4.2.1-win64-shared.zip)
-* [ffmpeg-4.2.1-win64-static.zip](/ffmpeg/ffmpeg-4.2.1-win64-static.zip)
-* [ffmpeg-4.2.1.tar.bz2](/ffmpeg/ffmpeg-4.2.1.tar.bz2)
-* [GitHubDesktop.zip](/gh-desktop/GitHubDesktop.zip)
-* [GitHubDesktopSetup.exe](/gh-desktop/GitHubDesktopSetup.exe)
-* [GitHubDesktopSetup.msi](/gh-desktop/GitHubDesktopSetup.msi)
 
 ## Donations
 ``xmr: 43BaTaixRPBZRSsUFCmgHmGGQJS1Fo8J5F8pZ1DHy4dTjZ8XT1C5JwDgu2bHpD4PvQ8Hu3gJEE4MGSwihjKd5XhLD3NtPe5``  
