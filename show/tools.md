@@ -22,6 +22,21 @@
 * [curl-7.64.0-win64-mingw.zip](/curl-7.64.0-win64-mingw.zip)
 * [OneDrive](https://freeshadow-my.sharepoint.com/:f:/g/personal/funinfo_abcda_tech/EnintXDsJdNGiNpEKCIo76UBiS3vKqsgV0ZgCGJNRqvF2g?e=wEVplU)
 
+### `github-desktop`
+* [GitHubDesktop.zip](/gh-desktop/GitHubDesktop.zip)
+* [GitHubDesktopSetup.exe](/gh-desktop/GitHubDesktopSetup.exe)
+* [GitHubDesktopSetup.msi](/gh-desktop/GitHubDesktopSetup.msi)
+
+### `wget`
+* [wget.exe](/wget.exe)
+* [wget-1.11.4.tar.gz](/wget/wget-1.11.4.tar.gz)
+* [wget-1.11.4-1-bin.zip](/wget/wget-1.11.4-1-bin.zip)
+* [wget-1.11.4-1-dep.zip](/wget/wget-1.11.4-1-dep.zip)
+* [wget-1.11.4-1-doc.zip](/wget/wget-1.11.4-1-doc.zip)
+* [wget-1.11.4-1-setup.exe](/wget/wget-1.11.4-1-setup.exe)
+* [wget-1.11.4-1-src.zip](/wget/wget-1.11.4-1-src.zip)
+* [wget-1.11.4-1-src-setup.exe](/wget/wget-1.11.4-1-src-setup.exe)
+
 ### `qbittorrent`
 * [qbittorrent_4.1.5_setup.exe](/qbittorrent_4.1.5_setup.exe)
 * [qbittorrent_4.1.5_x64_setup.exe](/qbittorrent_4.1.5_x64_setup.exe)
@@ -68,6 +83,27 @@
 * [osx.GoogleChrome-72.0.3626.96-Beta.dmg](https://freeshadow-my.sharepoint.com/:u:/g/personal/funinfo_abcda_tech/ESmgR0ezWgRGkBa4Xpx5PQoB2a9ezN0LWUtqCYZccC97xA?e=2Ptuoc)
 * [osx.GoogleChrome-73.0.3683.20-Dev.dmg](https://freeshadow-my.sharepoint.com/:u:/g/personal/funinfo_abcda_tech/EZTJl-njh6pNhfmBoCD7EfUB9t6UVjVGY0bY0wEikgmphw?e=DjBKHE)
 * [osx.GoogleChromeCanary-74.0.3694.0.dmg](https://freeshadow-my.sharepoint.com/:u:/g/personal/funinfo_abcda_tech/ESQq0iIvRl9JhQ5ocA4_HaQBde8QXdAs2lgZuQuBevuI7A?e=KbQLVl)
+
+### `ffmpeg`
+* [ffmpeg-20190926-525de95-macos64-dev.zip](/ffmpeg/ffmpeg-20190926-525de95-macos64-dev.zip)
+* [ffmpeg-20190926-525de95-macos64-shared.zip](/ffmpeg/ffmpeg-20190926-525de95-macos64-shared.zip)
+* [ffmpeg-20190926-525de95-macos64-static.zip](/ffmpeg/ffmpeg-20190926-525de95-macos64-static.zip)
+* [ffmpeg-20190926-525de95-win32-dev.zip](/ffmpeg/ffmpeg-20190926-525de95-win32-dev.zip)
+* [ffmpeg-20190926-525de95-win32-shared.zip](/ffmpeg/ffmpeg-20190926-525de95-win32-shared.zip)
+* [ffmpeg-20190926-525de95-win32-static.zip](/ffmpeg/ffmpeg-20190926-525de95-win32-static.zip)
+* [ffmpeg-20190926-525de95-win64-dev.zip](/ffmpeg/ffmpeg-20190926-525de95-win64-dev.zip)
+* [ffmpeg-20190926-525de95-win64-shared.zip](/ffmpeg/ffmpeg-20190926-525de95-win64-shared.zip)
+* [ffmpeg-20190926-525de95-win64-static.zip](/ffmpeg/ffmpeg-20190926-525de95-win64-static.zip)
+* [ffmpeg-4.2.1-macos64-dev.zip](/ffmpeg/ffmpeg-4.2.1-macos64-dev.zip)
+* [ffmpeg-4.2.1-macos64-shared.zip](/ffmpeg/ffmpeg-4.2.1-macos64-shared.zip)
+* [ffmpeg-4.2.1-macos64-static.zip](/ffmpeg/ffmpeg-4.2.1-macos64-static.zip)
+* [ffmpeg-4.2.1-win32-dev.zip](/ffmpeg/ffmpeg-4.2.1-win32-dev.zip)
+* [ffmpeg-4.2.1-win32-shared.zip](/ffmpeg/ffmpeg-4.2.1-win32-shared.zip)
+* [ffmpeg-4.2.1-win32-static.zip](/ffmpeg/ffmpeg-4.2.1-win32-static.zip)
+* [ffmpeg-4.2.1-win64-dev.zip](/ffmpeg/ffmpeg-4.2.1-win64-dev.zip)
+* [ffmpeg-4.2.1-win64-shared.zip](/ffmpeg/ffmpeg-4.2.1-win64-shared.zip)
+* [ffmpeg-4.2.1-win64-static.zip](/ffmpeg/ffmpeg-4.2.1-win64-static.zip)
+* [ffmpeg-4.2.1.tar.bz2](/ffmpeg/ffmpeg-4.2.1.tar.bz2)
 
 ### `varia`
 * [WSTSetup.exe](/WSTSetup.exe)
