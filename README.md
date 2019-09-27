@@ -7,6 +7,10 @@
 * [chrome-71-dl.zip](/gg/chrome-71-dl.zip)
 * [chrome-73-dl-x64.zip](/gg/chrome-73-dl-x64.zip)
 
+## [Microsoft Packages](/show/tools/ms.html)
+* [vc_redist.x64.exe](/ms/vc_redist.x64.exe) `vcruntime140.dll`
+* [vc_redist.x86.exe](/ms/vc_redist.x86.exe) `vcruntime140.dll`
+
 ## [wget](/show/wget.html)
 * [wget.exe](/wget.exe)
 * [wget-1.11.4.tar.gz](/wget/wget-1.11.4.tar.gz)
